@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Myoungchul Kim</h1>
 <h3 align="center">A passionate data scientist and former astrophysicist based on Tokyo</h3>
 
-- 🔭 I’m currently working on **A Universal Music Translation Network as a personal project**
+- 🔭 I’m currently working on **[A Universal Music Translation Network](https://github.com/MyoungchulK/music-translation) as a personal project**
+
+- ⚙️ I use daily: `.py`, `.sh`, `.ipynb`, `.h5`; and from time to time: `.cc`, `.json`, `.yml`, `.sql`
 
 - 🌱 I’m currently learning **A Dilated Convolution Encoder and Machine Learning Algorithms in general**
 
-- 👯 I worked on **Astroparticle Physics Experiments such as ARA, IceCube collaboration**
+- 👯 I worked on **Astroparticle Physics Experiments such as [ARA](https://ara.wipac.wisc.edu/home), [IceCube](https://icecube.wisc.edu/) collaboration**
 
 - 💬 Ask me about **NumPy, SciPy, Astrophysics or Classical music!**
 
